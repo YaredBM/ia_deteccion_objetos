@@ -1,33 +1,32 @@
-# 🤖 ai-object-detection
-## 👋 About this project
-This is a web AI object detection. You can use it in your web browser. This web application uses the camera of your device to detect objects.
+# 🤖 ia-deteccion-objetos
+## 👋 Acerca de este proyecto
+Esta es una detección de objetos de IA web. Puedes usarlo en tu navegador web. Esta aplicación web utiliza la cámara de tu dispositivo para detectar objetos.
 
-## ⚙️ Features
+## ⚙️ Características 
+- ✅ Interruptor de palanca para encender o apagar la IA 8 
+- ✅ Control deslizante de rango para controlar la velocidad de fotogramas
 
-- ✅ Toggle switch to turn AI on or off
-- ✅ Range slider to control frame rate
-
-## 🖼️ Images
+## 🖼️ Imagenes
 <a href="https://ibb.co/JCNgfJr"><img src="https://i.ibb.co/3kwQDZS/preview-combined.jpg" alt="preview-combined" width="100%"></a>
 
-## 💪 Try it
-If you are not convinced yet just try it out here: https://woody.pizza/tensorflow/object-detection/
+## 💪 Pruébalo
+Si aún no estás convencido, pruébalo aquí: https://woody.pizza/tensorflow/object-detection/
 
-## 🌐 Multiple browser support
-Probably this will work with the most browsers, but here is a list which browsers I have tested: 
+## 🌐 Compatibilidad con varios navegadores 
+Probablemente esto funcione con la mayoría de los navegadores, pero aquí hay una lista de los navegadores que he probado:
 
-|      Browser      | supported |
-|:-----------------:|:---------:|
+|    Navegador      | Funciona - |
+|:------------------:|:---------:|
 |      Firefox      |     ✅     |
 |      Chrome       |     ✅     |
 |        Edge       |     ✅     |
 | Internet Explorer |     ❌     |
 
-| Mobile Browser | supported |
+| Navegador Móvil| Funciona  |
 |:--------------:|:---------:|
 |     Firefox    |     ✅     |
 |     Chrome     |     ✅     |
 
-## ✌️ Credits
+## ✌️ Créditos
 - [Materialize](https://materializecss.com/)
 - [ml5js](https://ml5js.org/)
